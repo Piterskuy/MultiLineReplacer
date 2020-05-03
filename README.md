@@ -1,4 +1,4 @@
-# MultipleLineReplacer
+# MultiLineReplacer
 The program performs a multiple line replacement for pdf comment file (.fdf). 
 Another text files are applicable as well (after changing the file extension in source).
 
